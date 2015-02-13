@@ -1,2 +1,4 @@
+baseUrl: /open-data-resources
 gems:
-  - jekyll-last-modified-at
+  - jekyll-redirect-from
+
